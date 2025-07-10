@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.pptx
+collage_output.jpg
+custom_image_layout.pptx
